@@ -1,0 +1,12 @@
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+body{
+background-color: #e5e5f7;
+opacity: 1;
+background: radial-gradient(circle, transparent 20%, #e5e5f7 20%, #e5e5f7 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #e5e5f7 20%, #e5e5f7 80%, transparent 80%, transparent) 92.5px 92.5px, linear-gradient(#bcbee6 7.4px, transparent 7.4px) 0 -3.7px, linear-gradient(90deg, #bcbee6 7.4px, #e5e5f7 7.4px) -3.7px 0;
+background-size: 185px 185px, 185px 185px, 92.5px 92.5px, 92.5px 92.5px;
+}
+
